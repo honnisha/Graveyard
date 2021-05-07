@@ -1,0 +1,8 @@
+name: Graveyard
+version: ${project.version}
+main: graveyard.Graveyard
+api-version: 1.16
+prefix: Graveyard
+depend: [ MMOCore ]
+authors: [ Honnisha ]
+description: Graveyard

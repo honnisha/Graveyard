@@ -1,0 +1,4 @@
+# Set '' for disable
+spawn-message: '§aВы возродились у ближайшего чекпоинта §2%location-name%'
+worlds:
+  - world
